@@ -10,7 +10,7 @@ The goal of this tutorial is to dive into a simple iOS recipe - how to play soun
 ## What I Learned
 
 * How to play sound using AVFoundation and AVAudioPlayer.
-* Understand Apple documentation and how to use StackOverflow.
+* Apple documentation and how to use StackOverflow.
 * Functions and methods in Swift. 
 * Data types.
 * Swift loops.
